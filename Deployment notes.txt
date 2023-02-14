@@ -1,0 +1,19 @@
+# in anaconda prompt
+activate project
+jupyter notebook
+
+# in jupyter notebook
+run the file as below mentioned:
+cells before the univariate analysis
+missing value treatment
+checking outliers 
+outlier removal
+Treating the columns with values '0'
+Trying out Feature Engineering techniques to improve the model
+deployment
+
+# in anaconda prompt
+activate project
+cd desktop
+cd project
+streamlit run model.py
